@@ -33,7 +33,9 @@ A magical, Hogwarts-inspired proposal webpage that blends the charm of the Wizar
 Feel free to suggest improvements or new magical features by opening an issue or submitting a pull request.
 
 ## TL;DR:
-```Prompt I have used
+
+**Prompt I have used**
+```bash
 I’d like you to create a romantic web page to propose to my girlfriend, [Hermione]. The page should ask, ‘Will you marry me?’ with two buttons: ‘Yes’ and ‘No.’
 
 If she clicks ‘Yes,’ display a message saying, ‘Thank you! I’m coming with flowers!’
