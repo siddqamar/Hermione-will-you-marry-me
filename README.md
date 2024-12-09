@@ -1,8 +1,8 @@
 # Hermione, Will You Marry Me?
 
-A magical, Hogwarts-inspired proposal webpage that blends the charm of the Wizarding World with cutting-edge prompting techniques using [Qwen/Qwen2.5-Coder-Artifacts](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-Artifacts) on [hugging face](https://huggingface.co/qamarsidd).
+My dream webpage to convey emotions and demonstrate prompting skills using [Qwen/Qwen2.5-Coder-Artifacts](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-Artifacts) on [hugging face](https://huggingface.co/qamarsidd).
 
-**Note:** This webpage was developed through strategic prompting rather than manually coding everything from scratch.
+**Note:** This webpage was developed through `strategic prompting` rather than manually coding everything from scratch.
 
 ## Features
 
